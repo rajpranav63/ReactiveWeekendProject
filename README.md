@@ -12,8 +12,8 @@ Store reddit from subreddit you're following and the posts you have done using j
 5)Publish a reddit post from your account via code api
 6)Post done from reddit should be stored in your database automatically if reddit hit you API when you post
 ```
-Use springdata framework to integrate mongoDB, use gradle to build project. Use jackson library to store posts data received from reddit and convert to java bean.
-Use reactive mongoDB and reactive java for the Project.
+Used **springdata framework** to integrate mongoDB, use gradle to build project. Used **jackson library** to store posts data received from reddit and convert to java bean.
+Use **reactive mongoDB** and **reactive java** for the Project.
 
 ##### Reddit API used : - <br/>
 
